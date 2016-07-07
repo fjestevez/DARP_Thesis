@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="WSN-Stack_English.svg"
+   inkscape:export-filename="/home/fran/git/phd_fran/Tesis/tex_files/images/WSN-Stack_English.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="298.44707"
+     inkscape:cy="680.26068"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1151"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="113.85966"
+       x="116.86835"
+       height="412.59628"
+       width="317.37009"
+       id="rect2995"
+       style="fill:#ffe694;stroke:#ff6600;stroke-width:3.33810114999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667000000001"
+       id="rect2985"
+       width="319.20819"
+       height="82.832512"
+       x="115.9493"
+       y="114.94062" />
+    <rect
+       y="196.94061"
+       x="115.9493"
+       height="82.832512"
+       width="319.20819"
+       id="rect2987"
+       style="fill:none;stroke:#ff6600;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667000000001" />
+    <rect
+       style="fill:none;stroke:#ff6600;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667000000001"
+       id="rect2989"
+       width="319.20819"
+       height="82.832512"
+       x="115.9493"
+       y="278.94061" />
+    <rect
+       y="360.94061"
+       x="115.9493"
+       height="82.832512"
+       width="319.20819"
+       id="rect2991"
+       style="fill:none;stroke:#ff6600;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667000000001" />
+    <rect
+       style="fill:none;stroke:#ff6600;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.46666667000000001"
+       id="rect2993"
+       width="319.20819"
+       height="82.832512"
+       x="115.9493"
+       y="442.94061" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3009"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(23.802422,13.730769)"><flowRegion
+         id="flowRegion3011"><rect
+           id="rect3013"
+           width="306.07623"
+           height="69.700523"
+           x="121.21831"
+           y="121.00153" /></flowRegion><flowPara
+         id="flowPara3015"
+         style="font-size:30px">Application Layer</flowPara></flowRoot>    <flowRoot
+       transform="translate(37.322929,95.269335)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3023"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3025"><rect
+           y="121.00153"
+           x="121.21831"
+           height="69.700523"
+           width="306.07623"
+           id="rect3027" /></flowRegion><flowPara
+         style="font-size:30px"
+         id="flowPara3029">Transport Layer</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3031"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(43.599785,177.73076)"><flowRegion
+         id="flowRegion3033"><rect
+           id="rect3035"
+           width="306.07623"
+           height="69.700523"
+           x="121.21831"
+           y="121.00153" /></flowRegion><flowPara
+         id="flowPara3037"
+         style="font-size:30px">Network Layer</flowPara></flowRoot>    <flowRoot
+       transform="translate(34.92791,259.73076)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot3039"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3041"><rect
+           y="121.00153"
+           x="121.21831"
+           height="69.700523"
+           width="306.07623"
+           id="rect3043" /></flowRegion><flowPara
+         style="font-size:30px"
+         id="flowPara3045">Data Link Layer</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3047"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(45.211113,341.73076)"><flowRegion
+         id="flowRegion3049"><rect
+           id="rect3051"
+           width="306.07623"
+           height="69.700523"
+           x="121.21831"
+           y="121.00153" /></flowRegion><flowPara
+         id="flowPara3053"
+         style="font-size:30px">Physical Layer</flowPara></flowRoot>  </g>
+</svg>
